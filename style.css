@@ -10,13 +10,10 @@ img {
 }
 
 .cric-quiz-intro{
-    font-size: var(--fontSize3);
-    padding: var(--spacing3);
-}
-
-.cric-quiz-intro{
     width: 35rem;
     margin: 0 auto;
+    font-size: var(--fontSize3);
+    padding: var(--spacing3);
 }
 
 .button-container{

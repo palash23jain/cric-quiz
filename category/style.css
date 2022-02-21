@@ -1,0 +1,51 @@
+.img-wrapper{
+    margin: var(--spacing6) 0;
+    display: flex;
+    justify-content: center;
+}
+
+.home-img {
+    width: 35rem;
+    height: 30rem;
+}
+
+.cric-quiz-intro{
+    width: 35rem;
+    margin: 0 auto;
+    font-size: var(--fontSize3);
+    padding: var(--spacing3);
+}
+
+.cric-quiz-intro-title{
+    font-size: var(--fontSize4);
+    font-weight: bold;
+    text-align: center;
+    margin: var(--spacing3) 0;
+}
+
+
+.category-container{
+    display: flex;
+
+}
+
+.button-container{
+    margin: var(--spacing3) 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+.btn-rules{
+    color: var(--primary);
+    background-color: var(--secondary);
+    font-size: var(--fontSize3);
+    border: 0.1rem solid var(--text);
+}
+
+.btn-categories{
+    color: var(--primary);
+    background-color: var(--warning);
+    font-size: var(--fontSize3);
+    border: 0.1rem solid var(--text);
+}
+
